@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with updated JetBrains Rider for PC | JetBrains Rider for Windows Plugin | build-automation +
 
 
 
